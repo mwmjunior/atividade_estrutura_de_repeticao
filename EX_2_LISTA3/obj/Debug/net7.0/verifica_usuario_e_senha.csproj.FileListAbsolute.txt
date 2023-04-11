@@ -1,0 +1,15 @@
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\bin\Debug\net7.0\verifica_usuario_e_senha.exe
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\bin\Debug\net7.0\verifica_usuario_e_senha.deps.json
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\bin\Debug\net7.0\verifica_usuario_e_senha.runtimeconfig.json
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\bin\Debug\net7.0\verifica_usuario_e_senha.dll
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\bin\Debug\net7.0\verifica_usuario_e_senha.pdb
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\obj\Debug\net7.0\verifica_usuario_e_senha.csproj.AssemblyReference.cache
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\obj\Debug\net7.0\verifica_usuario_e_senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\obj\Debug\net7.0\verifica_usuario_e_senha.AssemblyInfoInputs.cache
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\obj\Debug\net7.0\verifica_usuario_e_senha.AssemblyInfo.cs
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\obj\Debug\net7.0\verifica_usuario_e_senha.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\obj\Debug\net7.0\verifica_usuario_e_senha.dll
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\obj\Debug\net7.0\refint\verifica_usuario_e_senha.dll
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\obj\Debug\net7.0\verifica_usuario_e_senha.pdb
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\obj\Debug\net7.0\verifica_usuario_e_senha.genruntimeconfig.cache
+C:\Users\836574281\Desktop\verifica_usuario_e_senha\obj\Debug\net7.0\ref\verifica_usuario_e_senha.dll

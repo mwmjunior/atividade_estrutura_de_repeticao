@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\obj\Debug\net7.0\sequencia-fibonacci.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\obj\Debug\net7.0\sequencia-fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\obj\Debug\net7.0\sequencia-fibonacci.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\obj\Debug\net7.0\sequencia-fibonacci.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\obj\Debug\net7.0\sequencia-fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\bin\Debug\net7.0\sequencia-fibonacci.exe
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\bin\Debug\net7.0\sequencia-fibonacci.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\bin\Debug\net7.0\sequencia-fibonacci.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\bin\Debug\net7.0\sequencia-fibonacci.dll
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\bin\Debug\net7.0\sequencia-fibonacci.pdb
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\obj\Debug\net7.0\sequencia-fibonacci.dll
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\obj\Debug\net7.0\refint\sequencia-fibonacci.dll
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\obj\Debug\net7.0\sequencia-fibonacci.pdb
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\obj\Debug\net7.0\sequencia-fibonacci.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\sequencia-fibonacci\obj\Debug\net7.0\ref\sequencia-fibonacci.dll

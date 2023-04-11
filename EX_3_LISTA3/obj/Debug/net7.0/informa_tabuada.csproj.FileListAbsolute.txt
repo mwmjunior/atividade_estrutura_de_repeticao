@@ -1,0 +1,15 @@
+C:\Users\836574281\Desktop\informa_tabuada\obj\Debug\net7.0\informa_tabuada.csproj.AssemblyReference.cache
+C:\Users\836574281\Desktop\informa_tabuada\obj\Debug\net7.0\informa_tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Desktop\informa_tabuada\obj\Debug\net7.0\informa_tabuada.AssemblyInfoInputs.cache
+C:\Users\836574281\Desktop\informa_tabuada\obj\Debug\net7.0\informa_tabuada.AssemblyInfo.cs
+C:\Users\836574281\Desktop\informa_tabuada\obj\Debug\net7.0\informa_tabuada.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Desktop\informa_tabuada\bin\Debug\net7.0\informa_tabuada.exe
+C:\Users\836574281\Desktop\informa_tabuada\bin\Debug\net7.0\informa_tabuada.deps.json
+C:\Users\836574281\Desktop\informa_tabuada\bin\Debug\net7.0\informa_tabuada.runtimeconfig.json
+C:\Users\836574281\Desktop\informa_tabuada\bin\Debug\net7.0\informa_tabuada.dll
+C:\Users\836574281\Desktop\informa_tabuada\bin\Debug\net7.0\informa_tabuada.pdb
+C:\Users\836574281\Desktop\informa_tabuada\obj\Debug\net7.0\informa_tabuada.dll
+C:\Users\836574281\Desktop\informa_tabuada\obj\Debug\net7.0\refint\informa_tabuada.dll
+C:\Users\836574281\Desktop\informa_tabuada\obj\Debug\net7.0\informa_tabuada.pdb
+C:\Users\836574281\Desktop\informa_tabuada\obj\Debug\net7.0\informa_tabuada.genruntimeconfig.cache
+C:\Users\836574281\Desktop\informa_tabuada\obj\Debug\net7.0\ref\informa_tabuada.dll

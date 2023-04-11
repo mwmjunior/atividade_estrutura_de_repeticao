@@ -1,0 +1,15 @@
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\obj\Debug\net7.0\verifica_nota_entre_zero_e_dez.csproj.AssemblyReference.cache
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\obj\Debug\net7.0\verifica_nota_entre_zero_e_dez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\obj\Debug\net7.0\verifica_nota_entre_zero_e_dez.AssemblyInfoInputs.cache
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\obj\Debug\net7.0\verifica_nota_entre_zero_e_dez.AssemblyInfo.cs
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\obj\Debug\net7.0\verifica_nota_entre_zero_e_dez.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\bin\Debug\net7.0\verifica_nota_entre_zero_e_dez.exe
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\bin\Debug\net7.0\verifica_nota_entre_zero_e_dez.deps.json
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\bin\Debug\net7.0\verifica_nota_entre_zero_e_dez.runtimeconfig.json
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\bin\Debug\net7.0\verifica_nota_entre_zero_e_dez.dll
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\bin\Debug\net7.0\verifica_nota_entre_zero_e_dez.pdb
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\obj\Debug\net7.0\verifica_nota_entre_zero_e_dez.dll
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\obj\Debug\net7.0\refint\verifica_nota_entre_zero_e_dez.dll
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\obj\Debug\net7.0\verifica_nota_entre_zero_e_dez.pdb
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\obj\Debug\net7.0\verifica_nota_entre_zero_e_dez.genruntimeconfig.cache
+C:\Users\836574281\Desktop\verifica_nota_entre_zero_e_dez\obj\Debug\net7.0\ref\verifica_nota_entre_zero_e_dez.dll
